@@ -1,7 +1,8 @@
 # de que va php
 
->este archivo quiero que sirva para guiar en el desarrollo de diferentes problemas de php <br>
->como es imposible unificarlos todos, lo hare por secciones
+> este repositorio esta enfocado a descifrar el codigo davinci que son los apuntes de PHP de 2ºDAW de la Senia
+> los ejercicios que se pueden encontrar en las carpetas son interpretaciones personales de lo que puede acabar siendo el examen final
+
 
 
 0. [formularios](#formularios)
